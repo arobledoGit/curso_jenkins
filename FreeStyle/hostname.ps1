@@ -1,3 +1,2 @@
-Write-Host "Hola mundo"
-$hostname = HOSTNAME.EXE
-Write-Host "$hostname"
+Write-Host "Hola. Envia esto a la pantalla"
+

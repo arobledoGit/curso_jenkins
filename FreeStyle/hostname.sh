@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Hola mundo"
-$hostname = hostname
+echo "hola"
+node_hostname=${hostname}
 echo ${hostname}
 
