@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "hola"
-node_hostname=${hostname}
-echo ${hostname}
+# Obtener el hostname y guardarlo en una variable
+node_hostname=$(hostname)
 
+# Imprime el hostname...
+echo $node_hostname
